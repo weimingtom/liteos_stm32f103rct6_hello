@@ -1,3 +1,10 @@
+/projects/bin/
+/projects/*.htm
+*.bak
+*.dep
+JLinkLog.txt
+*.Administrator
+
 # Prerequisites
 *.d
 
